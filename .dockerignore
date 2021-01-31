@@ -1,0 +1,18 @@
+###ignore files
+
+.git*
+git* 
+
+
+### ignore congig files
+
+.config 
+*config 
+
+### ignore docker files
+
+Dockerfile*
+*Dockerfile 
+
+###
+
